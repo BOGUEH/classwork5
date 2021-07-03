@@ -1,0 +1,21 @@
+
+body{
+
+    display: flex;
+    justify-content: center;
+     background-color: aquamarine;
+}
+
+ section{
+     width: 500px;
+     height: 600px;
+     background-color: burlywood;
+    text-align: center;
+  
+
+     }
+     div{
+         margin-bottom: 20px;
+         border-color: darkblue;
+         border-radius: 10px;
+     }
